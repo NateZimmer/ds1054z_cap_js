@@ -1,0 +1,14 @@
+{
+  "name": "ds1054z-cap",
+  "version": "1.0.0",
+  "description": "Rigol DS1054Z screen capture",
+  "main": "capture.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "jimp": "^0.16.1"
+  }
+}
