@@ -6,9 +6,23 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
   "license": "MIT",
   "dependencies": {
     "jimp": "^0.16.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NateZimmer/ds1054z_cap_js.git"
+  },
+  "keywords": [
+    "scope",
+    "capture",
+    "DS1054Z",
+    "rigol"
+  ],
+  "author": {
+    "name": "Nate Zimmer",
+    "email": "nate.m.zimmerman@gmail.com"
+  },
+  "homepage": "https://github.com/NateZimmer/ds1054z_cap_js"
 }

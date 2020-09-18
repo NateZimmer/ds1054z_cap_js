@@ -4,7 +4,7 @@ Captures the screen on a rigol DS1054Z over LAN and prints the result as a `.png
 
 ### Install 
 
-```console 
+``` 
 git clone https://github.com/NateZimmer/ds1054z_cap_js.git ds1054z_cap_js
 cd ds1054z_cap_js
 npm install 
